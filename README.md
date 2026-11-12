@@ -1,3 +1,3 @@
 This is the second test. 
 
-Favorite Color: red
+Favorite Color: blue
